@@ -1,0 +1,19 @@
+# python ignore
+venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# Idea Stuff
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac Stuff
+.DS_Store
+
+# app stuff
+config.ini
+output.log
